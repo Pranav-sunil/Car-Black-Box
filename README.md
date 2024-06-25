@@ -11,6 +11,6 @@ Features of the application:
 2. Password protected menu system:  
     2.1 View the saved events on the CLCD avaliable on the board.  
     2.2 Download and view saved data from External EEPROM on the board to a Laptop/PC using Teraterm application.  
-    2.3 Clear the saved logs in the system.
-    2.4 Change the time in the RTC.
+    2.3 Clear the saved logs in the system.  
+    2.4 Change the time in the RTC.  
     2.5 Change the password.  
